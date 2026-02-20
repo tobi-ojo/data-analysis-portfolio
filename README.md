@@ -1,2 +1,0 @@
-# data-analysis-portfolio
-Data analysis projects using Excel, SQL, Python, and Power BI
