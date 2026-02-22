@@ -1,0 +1,46 @@
+
+UNIVERSITY OF IBADAN ENROLLMENT ANALYSIS
+Python Data Analysis Project
+=========================================
+
+ANALYSIS SUMMARY
+----------------
+Total Student Records Analyzed: 5
+Data Period: 2021-2024
+Analysis Date: February 2026
+
+ENROLLMENT BY YEAR
+------------------
+2021-2022: 3,933 students
+2022-2023: 3,784 students  
+2023-2024: 3,775 students
+
+KEY FINDINGS
+------------
+- Enrollment declined by approximately 4% over the 3-year period
+- Average enrollment per year: ~3,831 students
+- Data analyzed using Python Pandas library
+
+TECHNICAL DETAILS
+-----------------
+Tools Used:
+- Python 3.14
+- Pandas (data manipulation)
+- Matplotlib (data visualization)
+
+Analysis Type:
+- Trend analysis
+- Descriptive statistics
+- Data visualization
+
+DELIVERABLES
+------------
+1. enrollment_trend.png - Line chart showing enrollment trend
+2. enrollment_bars.png - Bar chart comparing yearly enrollment
+3. analysis_summary.txt - This summary report
+4. enrollment_analysis.py - Python source code
+
+=========================================
+Analyst: Victor Ojo
+Project: Data Analysis Portfolio
+=========================================
