@@ -1,0 +1,54 @@
+
+GLOBAL BILLIONAIRES ANALYSIS
+Python Data Analysis Project
+======================================
+
+DATASET OVERVIEW
+----------------
+Total Billionaires: 475
+Analysis Date: February 2026
+
+TOP COUNTRIES
+-------------
+country
+United States     190
+China              73
+United Kingdom     22
+India              20
+Germany            20
+Switzerland        18
+Russia             17
+France             16
+Australia           8
+Singapore           7
+
+WEALTH STATISTICS
+-----------------
+Average Net Worth: $14821.89B
+Highest Net Worth: $211000.00B
+Total Global Wealth: $7040400.00B
+
+TECHNICAL DETAILS
+-----------------
+Tools Used:
+- Python 3.14
+- Pandas (data manipulation)
+- Matplotlib (visualization)
+
+Analysis Type:
+- Descriptive statistics
+- Geographic analysis
+- Industry breakdown
+- Wealth distribution
+
+DELIVERABLES
+------------
+1. top_countries.png - Top 10 countries bar chart
+2. industry_distribution.png - Industry pie chart
+3. wealth_by_country.png - Wealth by country bar chart
+4. analysis_summary.txt - This report
+
+======================================
+Analyst: Victor Ojo
+Project: Data Analysis Portfolio
+======================================
